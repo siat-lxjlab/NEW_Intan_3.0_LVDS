@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\confiig_h\Documents\GitHub\NEW_Intan_3.0-LVDS\RHD2000InterfaceXEM6310_release_180202\RHD2000InterfaceXEM6310 release 180202\main.ncd
+OUTFILE=C:\Users\confiig_h\Documents\GitHub\NEW_Intan_3.0-LVDS\RHD2000InterfaceXEM6310_release_180202\RHD2000InterfaceXEM6310 release 180202\main.bit
+FAMILY=Spartan6
+PART=xc6slx45-2fgg484
+WORKINGDIR=C:\Users\confiig_h\Documents\GitHub\NEW_Intan_3.0-LVDS\RHD2000InterfaceXEM6310_release_180202\RHD2000InterfaceXEM6310 release 180202
+LICENSE=WebPack
+USER_INFO=211739493_0_0_817
